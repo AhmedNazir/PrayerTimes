@@ -436,7 +436,7 @@ calcMethod = 'Karachi'
 place = 'Dhaka'
 latitude = 23.7104
 longitude = 90.40744
-GMT = -6
+GMT = +6
 DST = 0  # Daylight Saving Time
 timeFormat = '12h'
 
